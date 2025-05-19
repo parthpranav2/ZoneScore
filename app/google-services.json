@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811060341618",
+    "project_id": "zonescore-b7cda",
+    "storage_bucket": "zonescore-b7cda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811060341618:android:94dd34b0fcec5e09f6cbeb",
+        "android_client_info": {
+          "package_name": "com.example.zonescore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzy8HX2uqNXZH1bw_xpha1rww2DK9VcIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
